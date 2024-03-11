@@ -14,6 +14,30 @@ main {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
+.heading {
+    color: rgba(47, 115, 242, 0.806);
+    text-transform: uppercase;
+    font-size: 2rem;
+    padding-left: -22px;
+}
+
+.navbar {
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 35px;
+font-size: 0.8rem;
+}
+
+.navbar h2 {
+color: #816f0d;
+}
+
+h1:hover, h2:hover, h3:hover, h4:hover, h5:hover, h6:hover {
+    color: red;
+  }
+  
+
 h1, h2, h3 {
   color: #333;
 }
@@ -124,6 +148,130 @@ footer a:hover {
   }
   
   input[type="text"] {
+    width: 90%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  button[type="submit"] {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button[type="submit"]:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* Header Styles */
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  header h1 {
+    margin: 0;
+  }
+  
+  nav {
+    margin-top: 10px;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 1.2em;
+  }
+  
+  nav a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Main Content Styles */
+  main {
+    background-color: #4b4a4a88;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  section {
+    margin-bottom: 30px;
+  }
+  
+  h2 {
+    margin-bottom: 15px;
+  }
+  
+  h3 {
+    margin-top: 20px;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px auto; 
+        border-radius: 50%;
+  }
+  
+  figcaption {
+    font-style: italic;
+    margin-top: 10px;
+  }
+  
+  /* Form Styles */
+  form {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  fieldset {
+    border: none;
+    margin-bottom: 20px;
+  }
+  
+  legend {
+    font-weight: bold;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  input[type="radio"],
+  input[type="checkbox"] {
+    margin-right: 5px;
+  }
+  
+  input[type="text"] {
     width: 100%;
     padding: 10px;
     margin-bottom: 20px;
@@ -142,5 +290,22 @@ footer a:hover {
   
   button[type="submit"]:hover {
     background-color: #0056b3;
+  }
+  
+  /* Footer Styles */
+  footer {
+    text-align: center;
+    margin-top: 50px;
+    padding: 20px 0;
+    background-color: #333;
+    color: #fff;
+  }
+  
+  footer a {
+    color: #fff;
+  }
+  
+  footer a:hover {
+    text-decoration: underline;
   }
   
