@@ -13,7 +13,7 @@ The Cat Photo project is designed to introduce you to creating webpages using HT
 
 ## Features
 - **Cat Photo Gallery:** The webpage will display a gallery of cute cat photos.
-Responsive Design: The design is responsive and adapts to different screen sizes.
+- **Responsive Design:** The design is responsive and adapts to different screen sizes.
 Basic Styling: Apply basic CSS styling to enhance the appearance of the webpage.
 Getting Started
 To get started with the Cat Photo project, follow these steps:
