@@ -1,5 +1,5 @@
 # Cat Photo Project
-Welcome to the Cat Photo project! This project is inspired by Free Code Camp and aims to help you learn the basics of HTML and CSS by creating a simple webpage featuring adorable cat photos.
+Welcome to the `Cat Photo project!` This project is inspired by Free Code Camp and aims to help you learn the basics of HTML and CSS by creating a simple webpage featuring adorable cat photos.
 
 Table of Contents
 Project Overview
