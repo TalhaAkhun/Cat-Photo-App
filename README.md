@@ -7,7 +7,7 @@ Welcome to the `Cat Photo project!` This project is inspired by Free Code Camp a
 - Getting Started
 - Usage
 - Contributing
-License
+- License
 Project Overview
 The Cat Photo project is designed to introduce you to creating webpages using HTML and styling them with CSS. In this project, you'll create a webpage that showcases various cat photos along with some basic styling.
 
