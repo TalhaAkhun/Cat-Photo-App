@@ -5,7 +5,7 @@ Welcome to the `Cat Photo project!` This project is inspired by Free Code Camp a
 - Project Overview
 - Features
 - Getting Started
-Usage
+- Usage
 Contributing
 License
 Project Overview
