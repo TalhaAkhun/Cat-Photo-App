@@ -33,5 +33,5 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 - Commit your changes (git commit -am 'Add new feature').
 - Push to the branch (git push origin feature/improvement).
 - Create a new Pull Request.
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+## License
+This project is licensed under the MIT License - see the `LICENSE file for details`.
