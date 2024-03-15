@@ -19,16 +19,12 @@ The Cat Photo project is designed to introduce you to creating webpages using HT
 To get started with the Cat Photo project, follow these steps:
 
 - Clone this repository to your local machine using `git clone https://github.com/your-username/cat-photo.git`.
-- Navigate to the project directory: cd cat-photo.
+- Navigate to the project directory: `cd cat-photo`.
 - Open the project in your preferred code editor.
 ## Usage
 To view the Cat Photo webpage, open the index.html file in your web browser. You can explore the cat photo gallery and see the basic styling applied to the page.
 
-bash
-Copy code
-# Run the project
-open index.html
-Contributing
+## Contributing
 Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
 
 Fork the repository.
