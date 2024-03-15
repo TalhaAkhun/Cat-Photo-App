@@ -27,11 +27,11 @@ To view the Cat Photo webpage, open the index.html file in your web browser. You
 ## Contributing
 Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
 
-Fork the repository.
-Create a new branch (git checkout -b feature/improvement).
-Make your changes.
-Commit your changes (git commit -am 'Add new feature').
-Push to the branch (git push origin feature/improvement).
-Create a new Pull Request.
+- Fork the repository.
+- Create a new branch (git checkout -b feature/improvement).
+- Make your changes.
+- Commit your changes (git commit -am 'Add new feature').
+- Push to the branch (git push origin feature/improvement).
+- Create a new Pull Request.
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
